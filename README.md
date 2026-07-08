@@ -4,6 +4,7 @@
 
 <img src="docs/source/Net2Brain_Logo.png" alt="Net2Brain Logo" width="50%"/>
 
+Acknowledgement: This project is built upon Net2Brain framework developed by the cvai-roig-lab. The original project is available at https://github.com/cvai-roig-lab/Net2Brain.
 
 Welcome to [__Net2Brain__](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1515873/full), a powerful toolbox designed to facilitate the comparison of human brain activity patterns with the activations of Deep Neural Networks (DNNs). With over 600 pre-trained DNNs available, Net2Brain empowers neuroscientists to explore and analyze the relationships between artificial and biological neural representations.
 
