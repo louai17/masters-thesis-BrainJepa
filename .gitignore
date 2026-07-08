@@ -24,6 +24,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+net2brain-env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -79,3 +80,29 @@ notebooks/Workshops/*
 !notebooks/Workshops/*.ipynb
 *.npz
 /__MACOSX
+
+# ===== Thesis =====
+*.zip
+*.tgz
+*.safetensors
+
+# Datasets
+Algonauts23_shared_Net2Brain/
+imagenette2/
+bonner_pnas2017/
+
+# Training
+wandb/
+checkpoints/
+logs/
+
+# Large models
+*.ckpt
+*.pt
+
+# Generated feature extractions
+notebooks/0_FEATURE EXTRACTIONS/
+
+# Generated encoding results
+notebooks/0_encoding_results/
+

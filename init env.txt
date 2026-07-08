@@ -1,0 +1,5 @@
+init env:  net2brain-env\Scripts\activate.bat
+
+cd Net2Brain
+
+jupyter notebook

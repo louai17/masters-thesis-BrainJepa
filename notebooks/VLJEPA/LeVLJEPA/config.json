@@ -1,0 +1,25 @@
+{
+  "model_type": "levljepa",
+  "model_size": "base",
+  "vision_encoder": {
+    "architecture": "vit_base_patch16_224",
+    "hidden_size": 768,
+    "num_layers": 12,
+    "num_heads": 12
+  },
+  "text_encoder": {
+    "architecture": "gpt2",
+    "hidden_size": 768,
+    "num_layers": 12,
+    "num_heads": 12,
+    "vocab_size": 50257
+  },
+  "embed_dim": 256,
+  "projector_width": 2048,
+  "projector_depth": 4,
+  "training": {
+    "dataset": "DataComp-large",
+    "total_steps": 200000,
+    "batch_size": 4096
+  }
+}
