@@ -63,7 +63,7 @@ The experiments use brain regions of interest (ROIs) and data from multiple part
 | `4_MAE_DINO_IBOT.ipynb` | Comparison of image representation models |
 | `5_VL Models.ipynb` | Vision-language model experiments |
 | `6_video models.ipynb` | Video representation model experiments |
-| `7_JEPA.ipynb` | JEPA-related experiments |
+| `7_JEPA.ipynb` | JEPA-related models |
 | `8_UVP.ipynb` | Unique variance partitioning analyses |
 | `9_Img_Ranking.ipynb` | Image-wise ranking analysis |
 
