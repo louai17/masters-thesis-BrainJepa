@@ -10,7 +10,7 @@ This project investigates how well visual representations learned by different m
 Acknowledgement: This project is built upon Net2Brain framework developed by the cvai-roig-lab. The original project is available at https://github.com/cvai-roig-lab/Net2Brain.
 =======
 The project builds on the [Net2Brain framework](https://github.com/cvai-roig-lab/Net2Brain) and uses the Natural Scenes Dataset (NSD) and associated shared data for brain-alignment evaluation.
->>>>>>> e325ca9 (Add thesis analysis notebooks and project README)
+
 
 ## Research Objectives
 
