@@ -1,4 +1,4 @@
-# Brain Representation Alignment: Evaluating Visual Models Against Human Brain Activity
+# Evaluating JEPA against self-supervised vision and vision-language models in terms of brain alignment
 
 Master's thesis project in Computer Science (AI specialization) at Goethe University Frankfurt.
 
