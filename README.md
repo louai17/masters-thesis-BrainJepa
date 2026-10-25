@@ -6,7 +6,7 @@ Master's thesis project in Computer Science (AI specialization) at Goethe Univer
 
 This project investigates how well visual representations learned by different machine learning models align with human brain activity. It compares representations from self-supervised image models, vision-language models, and video models using functional MRI (fMRI) data.
 
-<<<<<<< HEAD
+
 Acknowledgement: This project is built upon Net2Brain framework developed by the cvai-roig-lab. The original project is available at https://github.com/cvai-roig-lab/Net2Brain.
 =======
 The project builds on the [Net2Brain framework](https://github.com/cvai-roig-lab/Net2Brain) and uses the Natural Scenes Dataset (NSD) and associated shared data for brain-alignment evaluation.
